@@ -1,0 +1,22 @@
+{
+  "name": "empty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyuapp/EMPTY.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyuapp/EMPTY/issues"
+  },
+  "homepage": "https://github.com/zyuapp/EMPTY#readme",
+  "dependencies": {
+    "ramda": "^0.28.0"
+  }
+}
