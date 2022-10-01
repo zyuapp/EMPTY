@@ -17,6 +17,6 @@
   "homepage": "https://github.com/zyuapp/EMPTY#readme",
   "dependencies": {
     "ramda": "^0.28.0",
-    "preact": "10.11.1"
+    "preact": "10.11.0"
   }
 }
